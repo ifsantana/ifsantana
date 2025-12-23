@@ -29,7 +29,7 @@ Currently at **Caliza** (US Company), I lead end-to-end development of core paym
 ### 🛠️ Technical Expertise
 
 **Languages & Frameworks:**
-- Java, Kotlin, C# .NET, Spring Boot, Spring Cloud, .NET Core, Play! Framework
+- Java, Kotlin, C# .NET, Spring Boot, Spring Cloud, .NET
 
 **Architecture & Design:**
 - Microservices, Distributed Systems, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing, SOLID Principles
@@ -71,8 +71,6 @@ Currently at **Caliza** (US Company), I lead end-to-end development of core paym
 **🔗 GitHub:** [@ifsantana](https://github.com/ifsantana)
 
 Feel free to reach out to discuss distributed systems, backend architecture, microservices patterns, or anything tech-related! I'm always happy to collaborate and share knowledge.
-
----
 
 ---
 
