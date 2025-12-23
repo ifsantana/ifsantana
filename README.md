@@ -29,7 +29,7 @@ Currently at **Caliza** (US Company), I lead end-to-end development of core paym
 ### 🛠️ Technical Expertise
 
 **Languages & Frameworks:**
-- Java, Kotlin, C# .NET, Spring Boot, Spring Cloud, .NET
+- Java, Kotlin, C# .NET, Spring Boot, Spring Cloud
 
 **Architecture & Design:**
 - Microservices, Distributed Systems, Domain-Driven Design (DDD), Event-Driven Architecture, Event Sourcing, SOLID Principles
