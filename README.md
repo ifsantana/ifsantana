@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer and Architect with **12+ years** of experience designing and building distributed, scalable, and mission-critical systems. I specialize in **backend engineering** with deep expertise in **Java**, **Kotlin**, and **C#**, focusing on **microservices architecture**, **cloud-native systems**, and **event-driven architectures**.
+Senior Software Engineer and Architect with **14+ years** of experience designing and building distributed, scalable, and mission-critical systems. I specialize in **backend engineering** with deep expertise in **Java**, **Kotlin**, and **C#**, focusing on **microservices architecture**, **cloud-native systems**, and **event-driven architectures**.
 
 Currently at **Caliza** (US Company), I lead end-to-end development of core payment platform services handling **millions of daily transactions** with strict security and compliance requirements. My background spans fintech, SaaS, healthcare, and public safety domains.
 
